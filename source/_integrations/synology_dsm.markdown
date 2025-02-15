@@ -127,6 +127,10 @@ Entities reporting the internal temperature, status (as shown in Synology DSM) a
 
 Entities reporting status, total size (TB), used size (TB), % of volume used, average disk temperature and maximum disk temperature for each volume inside the NAS. By default the total size and maximum disk temperature sensors are disabled.
 
+### USB disk sensors
+
+Entities reporting device size (GB), partitions total size (GB), partitions used size (GB), and % of partitions used for each USB disk connected to the NAS. By default the device size sensor is disabled.
+
 ## Binary sensors
 
 ### General sensors

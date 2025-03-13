@@ -133,7 +133,7 @@ Entities reporting status and device size (GB). By default the device size senso
 
 ### USB partition sensors
 
-Entities partition total size (GB), partition used size (GB), and % of partition used for each partition of each USB disk connected to the NAS.
+Entities reporting partition size (GB), partition used size (GB), and % of partition used for each partition of each USB disk connected to the NAS.
 
 ## Binary sensors
 
